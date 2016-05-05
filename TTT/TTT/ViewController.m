@@ -18,7 +18,14 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    
+    switch (1) {
+        case 1:
+            
+            break;
+            
+        default:
+            break;
+    }
     
     
     NSString *str = @"l";
